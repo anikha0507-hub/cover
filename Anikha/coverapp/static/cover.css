@@ -1,0 +1,78 @@
+body
+{
+    background-image: url("back.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+.book
+{
+    
+    padding-left: 650;
+    padding-right: 650;
+}
+.about
+{
+    color: lineargradient(violet,lightpink,lightblue);
+}
+.para
+{
+    font-size: 500%;
+    color: rgb(0, 0, 0);
+    font: Arial;
+    font-weight: bold;
+}
+span
+{
+    background-color: lightcoral;
+}
+.box
+{
+    padding: 10px ;
+    margin: 10px ;
+    background-color: lightsalmon;
+    font-style: italic;
+    border-left: 5px white solid;
+    font-size: 20px;
+}
+.number2
+{
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: 20px center;
+    padding: 50px ;
+    margin: 10px ;
+    background-color: white;
+    font: Arial, Helvetica, sans-serif; ;
+    font-style: italic;
+    border-left: 4px lightgrey;
+    font-size: 20px;
+    
+}
+
+.author
+{
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    padding-right: 100;
+    font-size: 90%;
+}
+footer
+{
+    background-color: lightgoldenrodyellow;
+    margin-top: 10px;
+    font-weight: bold;
+    border-left: 7px aliceblue solid;
+    height: 55px;
+    width: 575px;
+    padding-bottom:5%;
+    padding-top:0.05%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 70%;
+  
+
+}
